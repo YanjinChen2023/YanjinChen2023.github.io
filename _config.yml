@@ -17,50 +17,42 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
-title: Yanjin's personal webpage
+locale: "en-US"
+title: Yanjin's personal website
 title_separator: "-"
 email: yc2kg@virginia.edu
-description: "An amazing website"
+description: "A new website for self-bio and various thoughts."
 #baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username: jekyll
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: jekyllrb
+github_username: YanjinChen2023
 
 # Build settings
-#theme: minima
+# theme: minima
 # theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "sunrise"
+minimal_mistakes_skin: "Contrast"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
-logo: "/WechatIMG1055.jpeg"
+logo: "/logo.jpeg"
+words_per_minute: 200
 author:
   name: "Yanjin Chen"
-  avatar: "WechatIMG1055.jpeg"
-  bio: "I am an **amazing** person."
-  location: "Somewhere"
+  avatar: "yanjinchen.png"
+  bio: "I am a current UVA CS student, aiming to work in computational biology field."
+  location: "USA"
   email: yc2kg@virginia.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      url: "yc2kg@virginia.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/YanjinChen2023"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/lucie_chen6/"
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
