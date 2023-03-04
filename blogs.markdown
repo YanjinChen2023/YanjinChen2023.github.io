@@ -1,7 +1,7 @@
 ---
 title: "Blogs"
 layout: archive
-permalink: /newpage/
+permalink: /blogs/
 author_profile: true
 comments: true
 ---
