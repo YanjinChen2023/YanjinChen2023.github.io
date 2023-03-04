@@ -20,7 +20,7 @@
 locale: "en-US"
 title: Yanjin's personal website
 title_separator: "-"
-email: yc2kg@virginia.edu
+# email: yc2kg@virginia.edu
 description: "A new website for self-bio and various thoughts."
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
