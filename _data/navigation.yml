@@ -1,5 +1,9 @@
 main:
   - title: "About"
     url: /about/
-  - title: "CV"
+  - title: "Research"
     url: /research/
+  - title: "CV"
+    url: "/Math_3310.pdf"
+  - title: "New page"
+    url: /newpage/
