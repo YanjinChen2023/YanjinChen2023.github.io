@@ -33,7 +33,7 @@ github_username: jekyll
 #theme: minima
 # theme: minimal-mistakes-jekyll
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin: "aqua"
+minimal_mistakes_skin: "contrast"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
