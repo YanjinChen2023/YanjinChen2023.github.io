@@ -5,6 +5,4 @@
 layout: default
 ---
 
-## This is my home page blah
-
 Hi guys this is me ![Yanjin Chen](/WechatIMG1244.jpeg)
