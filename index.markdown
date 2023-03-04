@@ -1,6 +1,8 @@
 ---
-layout: home
+title: "Home"
+layout: archive
 author_profile: true
+comments: true
 ---
 
-Hi guys this is me ![Yanjin Chen](/cyj.jpeg)
+Hi guys this is me !
