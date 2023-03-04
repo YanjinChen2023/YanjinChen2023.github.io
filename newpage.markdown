@@ -1,7 +1,9 @@
 ---
-layout: single
-title: new page
-permalink: /newpage/
+title: "Blogs"
+layout: archive
+permalink: /Blogs/
+author_profile: true
+comments: true
 ---
 
-Hey!!!
+This is my blog page.
