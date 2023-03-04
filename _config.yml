@@ -42,7 +42,6 @@ author:
   avatar: "/cyj.jpeg"
   bio: "I am a current UVA CS student, aiming to work in computational biology field."
   location: "USA"
-  email: yc2kg@virginia.edu
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
