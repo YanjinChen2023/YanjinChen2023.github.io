@@ -1,7 +1,7 @@
 ---
 layout: single
 title: new page
-permalink: /mewpage/
+permalink: /newpage/
 ---
 
 Hey!!!
