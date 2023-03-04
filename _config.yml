@@ -39,7 +39,7 @@ logo: "/logo.jpeg"
 words_per_minute: 200
 author:
   name: "Yanjin Chen"
-  avatar: "yanjinchen.png"
+  avatar: "/cyj.jpeg"
   bio: "I am a current UVA CS student, aiming to work in computational biology field."
   location: "USA"
   email: yc2kg@virginia.edu
